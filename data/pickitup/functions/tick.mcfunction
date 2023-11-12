@@ -1,0 +1,1 @@
+execute as @a[predicate=pickitup:is_sneaking,nbt={SelectedItem:{id:"minecraft:shulker_shell",tag:{Tags:["PickItUp"]}}}] at @s if block ~ ~-0.001 ~ #pickitup:containers run function pickitup:pickitup

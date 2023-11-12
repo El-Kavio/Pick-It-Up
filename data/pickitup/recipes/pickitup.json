@@ -1,0 +1,36 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:chain"
+        },
+        {
+            "item": "minecraft:end_crystal"
+        },
+        {
+            "item": "minecraft:chain"
+        },
+        {
+            "item": "minecraft:chain"
+        },
+        {
+            "item": "minecraft:shulker_shell"
+        },
+        {
+            "item": "minecraft:chain"
+        },
+        {
+            "item": "minecraft:chain"
+        },
+        {
+            "item": "minecraft:anvil"
+        },
+        {
+            "item": "minecraft:chain"
+        }
+    ],
+    "result": {
+        "item": "minecraft:knowledge_book",
+        "count": 1
+    }
+}
