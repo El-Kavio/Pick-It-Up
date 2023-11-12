@@ -5,7 +5,7 @@ This datapack allows you to **pick up** chests and barrels through the craftable
 ---
 
 ## Craft
-<img src="" alt="PickItUp craft"><br>
+<img src="https://github.com/El-Kavio/Pick-It-Up/assets/140896938/a6970b5e-bb65-4f50-98de-b7b8c08ec1bf" alt="PickItUp craft"><br>
 
 <details><summary><b>Items needed</b></summary>
 
