@@ -22,6 +22,7 @@ This datapack allows you to **pick up** chests and barrels through the craftable
 ## How to use
 
 **Sneak on top** of a chest or barrel while **holding** the craftable item to **pick it up**!
+> It will also return a shulker shell.
 
 ---
 
