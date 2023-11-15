@@ -26,4 +26,10 @@ This datapack allows you to **pick up** chests and barrels through the craftable
 
 ---
 
+## Notes
+
+The **picked up** container will **retain** its **name** as well as its items.
+
+---
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/kavio)
